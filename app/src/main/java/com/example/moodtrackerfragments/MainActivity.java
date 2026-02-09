@@ -11,7 +11,7 @@ import androidx.fragment.app.Fragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity extends AppCompatActivity {
-    EditText et;
+    private EditText et;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
