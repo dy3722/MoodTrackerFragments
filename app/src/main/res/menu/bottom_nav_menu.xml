@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_happy"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="שמח" />
+    <item
+        android:id="@+id/nav_neutral"
+        android:icon="@android:drawable/btn_star"
+        android:title="ניטרלי" />
+    <item
+        android:id="@+id/nav_sad"
+        android:icon="@android:drawable/ic_delete"
+        android:title="עצוב" />
+</menu>
